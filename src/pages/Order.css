@@ -1,0 +1,26 @@
+.orders {
+  margin-top: 2%;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 90%;
+  padding: 10px;
+  display: flex;
+  flex-direction: row-reverse;
+  font-size: large;
+  justify-content: flex-start;
+  column-gap: 1rem;
+  margin-left: 3%;
+
+
+}
+.title-orders {
+  text-align: center;
+  height: 50px;
+}
+.title {
+  margin-top: 1%;
+}
+.all-orders {
+  width: 1500px;
+  height: 820px;
+}
